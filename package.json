@@ -14,11 +14,17 @@
   "author": "Andrew Meek <i@andmeek.ru>",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "chalk": "^4.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.0",
     "npm": "^10.8.1",
+    "validator": "^13.12.0",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
